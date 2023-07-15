@@ -4,5 +4,24 @@ This repo contains visualization results for the paper XXXX. We also implemented
 
 by Le Yang (2019212184@bupt.edu.cn).
 
+## Running
+
+- `show.ipynb` file displays the results of the Diffusion model
+- `cs_OMP.ipynb` file displays the results of the OMP algorithm
+- `cs_GPSR.ipynb` file displays the results of the GPSR algorithm
+- `evaluate.ipynb` file displays the curve chart of evaluation indicators for all reconstruction results
+
 ## Prerecovered Measurement Matrix
 Download at [https://drive.google.com/drive/folders/1NbeVtzXnzTY1NOWK_IQwAi-4xc93X2mD?usp=drive_link](https://drive.google.com/drive/folders/1NbeVtzXnzTY1NOWK_IQwAi-4xc93X2mD?usp=drive_link) and place into `recvs` folder.
+
+
+## Acknowledgement
+
+GPSR algorithm is converted from MATLAB code in [http://www.lx.it.pt/~mtf/GPSR/](http://www.lx.it.pt/~mtf/GPSR/) website and referenced file is `GPSR_6.0/GPSR_Basic.m`.
+
+## References
+
+If you find the code/idea useful for your research, please consider citing
+
+```bib
+```
