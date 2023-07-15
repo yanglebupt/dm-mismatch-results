@@ -4,6 +4,20 @@ This repo contains visualization results for the paper XXXX. We also implemented
 
 by Le Yang (2019212184@bupt.edu.cn).
 
+## Results
+
+### Unknown Image Mismatch Reconstruction by Diffusion Model 
+![](./res_images/diff_pre_images_res.jpg)
+
+### Unknown Image Mismatch Reconstruction by OMP algorithm
+![](./recvs/res/A_recv_OMP_float64_res.jpg)
+
+### Unknown Image Mismatch Reconstruction by GPSR algorithm
+![](./recvs/res/A_recv_GPSR_float64_res.jpg)
+
+### Comparison Curve
+![](./res.jpg)
+
 ## Running
 
 - `show.ipynb` file displays the results of the Diffusion model
