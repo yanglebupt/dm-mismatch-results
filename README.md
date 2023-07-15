@@ -7,7 +7,7 @@ by Le Yang (2019212184@bupt.edu.cn).
 ## Results
 
 ### Unknown Image Mismatch Reconstruction by Diffusion Model 
-![Unknown Image Mismatch Reconstruction by Diffusion Model](./res_images/diff_pre_images_res.jpg)
+![Unknown Image Mismatch Reconstruction by Diffusion Model](./res_images/post/diff_pre_images_res.png)
 
 ### Unknown Image Mismatch Reconstruction by OMP algorithm
 ![Unknown Image Mismatch Reconstruction by OMP algorithm](./recvs/res/A_recv_OMP_float64_res.jpg)
@@ -16,10 +16,10 @@ by Le Yang (2019212184@bupt.edu.cn).
 ![Unknown Image Mismatch Reconstruction by GPSR algorithm](./recvs/res/A_recv_GPSR_float64_res.jpg)
 
 ### Comparison Curve
-![Comparison Curve](./res.jpg)
+![Comparison Curve](./res_images/post/res.png)
 
 ### Epoch-Error Curve
-![Epoch-Error Curve](./res_images/diff_pre_images_errors_local_scale.jpg)
+![Epoch-Error Curve](./res_images/post/diff_pre_images_errors_local_scale.png)
 
 ## Running
 
